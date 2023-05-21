@@ -1,0 +1,1 @@
+* To use Selenium in WSL2 you first need to install all the libraries needed to show GUIs: https://learn.microsoft.com/es-es/windows/wsl/tutorials/gui-apps. 
