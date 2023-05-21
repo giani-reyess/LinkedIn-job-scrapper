@@ -1,1 +1,5 @@
-* To use Selenium in WSL2 you first need to install all the libraries needed to show GUIs: https://learn.microsoft.com/es-es/windows/wsl/tutorials/gui-apps. 
+Things to keep in mind using Selenium in WSL2: 
+
+* Use a version of python<=3.9. python3.10 is not stable yet.
+
+* Install all the libraries needed to show GUIs: https://learn.microsoft.com/es-es/windows/wsl/tutorials/gui-apps. 
